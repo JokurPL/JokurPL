@@ -2,4 +2,4 @@
 
 I like kpop :)
 
-I'm trying to be a JavaScript developer :D
+I'm trying to be a Full-Stack JavaScript developer :D

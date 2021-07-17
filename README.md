@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JokurPL -
 
-I like kpop and anime :)
+I like kpop :)
 
-I'm trying to be a JavaScript develeoper :D
+I'm trying to be a JavaScript developer :D
